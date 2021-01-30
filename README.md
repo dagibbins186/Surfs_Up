@@ -12,6 +12,6 @@ Analysis examined Oahu's preciptation over the course of one year. On average, O
 Temperatures primarily fell beween 70 and 80 degrees over the past year. The odds of warm weather promoting ice cream and water-activity sales seemed high.
 \
 \
-In addition, the weather appeared temperate year-round. The average temperature was 71 degrees in December and 74 degrees in June. Results indicated that consistently beautiful days would encourage customers to frequent the surf and shake shop.
+In addition, the weather appeared temperate year-round. The average temperature was 71 degrees in December and 74 degrees in June. Results indicated that consistently beautiful days could encourage customers to frequent the surf and shake shop.
 # Summary
 In conclusion, SQLite stored the weather data, and supported testing and easy prototyping. The create engine feature of SQLAlchemy set up the ability to query the SQLite database. Automap Base produced a base class for an automap schema in SQLAlchemy. This foundation permitted the code to function properly. Flask displayed the results. For the investor who wanted to see the data without the code, Flask made it possible to summarize the key ideas of the code.
