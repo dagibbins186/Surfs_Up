@@ -7,8 +7,9 @@ Analysis examined Oahu's preciptation over the course of one year. On average, O
 \
 \
 !["Histogram_Surfs_Up_Temp_Analysis.PNG"](https://github.com/dagibbins186/Surfs_Up/blob/main/Surfs_Up/Histogram_Surfs_Up_Temp_Analysis.PNG)
-Temperatures primarily fell beween 70 and 80 degrees over the past year. Warm weather should improve the odds of ice cream and water-activity sales.
 \
+\
+Temperatures primarily fell beween 70 and 80 degrees over the past year. Warm weather should improve the odds of ice cream and water-activity sales.
 \
 In addition, the weather appeared temperate year-round. The average temperature was 71 degrees in December and 74 degrees in June. Consistently beautiful days should encourage customers to frequent the surf and shake shop.
 # Summary
